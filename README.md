@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
 	Array adalah koleksi data dimana setiap elemen memakai nama yang sama dan bertipe sama dan setiap elemen diakses dengan membedakan indeks arraynya.
-Untuk Deklarasi Array, Untuk Variabel array dideklarasikan dengan mencantumkan tipe dan nama variable yang diikuti dengan banyaknya lokasi memori yang ingin dibuat. 
+Untuk Deklarasi Array, Variabel array dideklarasikan dengan mencantumkan tipe dan nama variable yang diikuti dengan banyaknya lokasi memori yang ingin dibuat. 
 Contoh :  
 - int a[4];    = array 1 dimensi
 - int b[2][3]; = array 2 dimensi
@@ -14,10 +14,12 @@ Contoh :
 <b> Array dua dimensi merupakan array yang terdiri dari m buah baris dan n buah kolom.
 Bentuknya dapat berupa matriks atau tabel. Sebenarnya array dua dimensi adalah sebuah array yang ada di dalam array.
 Misalnya: ada sebuah array dua dimensi dengan ukuran 2 x 2 maka pada sebuah tempat sel pertama akan ada sebuah array satu dimensi di dalamnya.
-  Sehingga gambaran secara lebih mudah untuk merepresentasikan array dua dimensi sebagai berikut.
+
+<b>Sehingga gambaran secara lebih mudah untuk merepresentasikan array dua dimensi sebagai berikut.
 Menampilkan elemen matriks dapat dilakukan dengan menggunakan pengulangan.
 Syaratnya: matriks harus sudah diisi agar dapat ditampilkan isinya.
-  Pada UAS Dasar Pemrograman Semester 1 UIN SGD Bandung 2022, Saya diberikan 2 soal antara lain :
+
+<b>Pada UAS Dasar Pemrograman Semester 1 UIN SGD Bandung 2022, Saya diberikan 2 soal antara lain :
 1. Membuat Program Tukar Colom, Baris & Menjadi Baris, Colom.
 2. Program Menampilkan Bilangan Yang Habis Dibagi Angka 3,5,dan 7.
 
