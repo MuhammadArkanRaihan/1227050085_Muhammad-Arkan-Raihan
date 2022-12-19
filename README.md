@@ -10,7 +10,8 @@ Deklarasi Array. Variabel array dideklarasikan dengan mencantumkan tipe dan nama
 Contoh :  
 - int a[4];    = array 1 dimensi
 - int b[2][3]; = array 2 dimensi
-	Array dua dimensi merupakan array yang terdiri dari m buah baris dan n buah kolom.
+
+<b> Array dua dimensi merupakan array yang terdiri dari m buah baris dan n buah kolom.
 Bentuknya dapat berupa matriks atau tabel. Sebenarnya array dua dimensi adalah sebuah array yang ada di dalam array.
 Misalnya: ada sebuah array dua dimensi dengan ukuran 2 x 2 maka pada sebuah tempat sel pertama akan ada sebuah array satu dimensi di dalamnya.
   Sehingga gambaran secara lebih mudah untuk merepresentasikan array dua dimensi sebagai berikut.
