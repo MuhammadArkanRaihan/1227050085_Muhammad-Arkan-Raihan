@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
 	Array adalah koleksi data dimana setiap elemen memakai nama yang sama dan bertipe sama dan setiap elemen diakses dengan membedakan indeks arraynya.
-Deklarasi Array. Variabel array dideklarasikan dengan mencantumkan tipe dan nama variable yang diikuti dengan banyaknya lokasi memori yang ingin dibuat. 
+Untuk Deklarasi Array, Untuk Variabel array dideklarasikan dengan mencantumkan tipe dan nama variable yang diikuti dengan banyaknya lokasi memori yang ingin dibuat. 
 Contoh :  
 - int a[4];    = array 1 dimensi
 - int b[2][3]; = array 2 dimensi
